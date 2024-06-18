@@ -1,0 +1,1 @@
+/*KANANG mga js nako App.js na  sila  na individual ra*/
